@@ -15,12 +15,12 @@ I am currently in search of a career in software development, data science, mach
   
 
 ## Education
-- Computer Science B.S. | University of California, Santa Barbara (_June 2023_)   		
+**Computer Science B.S. | University of California, Santa Barbara (_June 2023_)** 		
 
 
 ## Work Experience
 **Machine Learning Engineer Intern @ Sermonis.ai**
-**(_June 2022 - August 2022_)**
+**(_Summer 2022_)**
 - Developed web scraper to extract text from online news articles, enabling efficient data collection
 - Cleaned, labeled, and converted the text into JSONs, optimizing data quality and compatibility with NLP models
 - Utilized the Huggingface library to tokenize the text data for streamlined preprocessing and feature extraction
@@ -29,7 +29,7 @@ I am currently in search of a career in software development, data science, mach
 
 
 **Frontend Web Developer Intern @ University of California, San Francisco**
-**(_June 2018 - August 2018_)**
+**(_Summer 2018_)**
 - Improved UI features in The Ilios Project’s medical curriculum manager, such as task lists, reminders, and toolbars
 - Revised the IndustryDocumentLibrary’s UI, enhancing accessibility, viewing experience, and content delivery
 - Enhanced text scraping in IndustryDocumentLibrary for efficient metadata extraction from legal documents
