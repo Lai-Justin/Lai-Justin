@@ -60,7 +60,7 @@ I am currently in search of a career in software development, data science, mach
 ### Temperature-Based Automated Window Control Software
 
 **_Python, GPIOZero, PostgreSQL, Flask, Request_**
-[Project Link]([https://github.com/Lai-Justin/Schedule-Planner](https://github.com/Lai-Justin/Window-Control))
+[Project Link](https://github.com/Lai-Justin/Window-Control)
 
 
 ### Fashion MNIST Convolutional Neural Network Image Classifier
