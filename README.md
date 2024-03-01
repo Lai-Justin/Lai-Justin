@@ -1,7 +1,7 @@
 ## About Me
 Hello! I’m Justin and I am a new graduate of the University of California, Santa Barbara with a Bachelor of Science in Computer Science with an interest in machine learning and natural language processing. During the Summer of 2022, I interned at Sermonis.ai as a Machine Learning Engineer where I built natural language processing models to create intelligent virtual assistants for use in commercial and industrial purposes.
 
-In the past, I worked as a Web Developer Intern at the University of California San Francisco Library CKM Office where I was a frontend web developer as well as a software QA tester for the IndustryDocumentsLibrary and the Illios Project.
+In the past, I worked as a Web Developer Intern at the University of California San Francisco where I was a frontend web developer as well as a software QA tester for the IndustryDocumentsLibrary and the Illios Project.
 
 Besides computer science, a big passion of mine is linguistics and language learning which fuels my interest in natural language processing. Along with English, I can speak Cantonese, French, German, and a beginner-level Italian
 
@@ -39,22 +39,26 @@ I am currently in search of a career in software development, data science, mach
 
 
 ## Projects
-### CIFAR-10 ConvolutionAl Neural Network Image Classifier
+### CIFAR-10 Convolutional Neural Network Image Classifier
+
 **_Python, TensorFlow, Keras, Scikit-Learn, Matplotlib_**
 [Project Link](https://github.com/Lai-Justin/Keras-CIFAR-10-CNN)
 
 
 ### Four-Year Schedule Planner
+
 **_JavaScript, Python, React.js, Node.js, Express.js, Mongoose_**
 [Project Link](https://github.com/Lai-Justin/Schedule-Planner)
 
 
 ### Athlete Fitness Naïve Bayes' Classifier
+
 **_Python, Numpy, Pandas_**
 [Project Link](https://github.com/Lai-Justin/Schedule-Planner)
 
 
 ### Temperature-Based Automated Window Control Software
+
 **_Python, GPIOZero, PostgreSQL, Flask, Request_**
 [Project Link]([https://github.com/Lai-Justin/Schedule-Planner](https://github.com/Lai-Justin/Window-Control))
 
